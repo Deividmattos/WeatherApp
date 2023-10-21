@@ -69,7 +69,9 @@ h1{
 .weather-data{
     width: 100%;
 }
-
+.current-weather icon{
+  text-align: center;
+}
 .current-weather{
     color: #fff;
     border-radius: 5px;
